@@ -1,0 +1,2 @@
+# NetLocalGroupGetMembers
+查询目标服务器本地管理组的成员
